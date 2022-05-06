@@ -1,0 +1,36 @@
+body{
+    font-family: cursive;
+    font-size: 16px;
+    margin: 0px;
+    background: #2793d2;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-height: 100vh;
+}
+
+.error{
+    color: red;
+    font-style: italic;
+    display: block;
+}
+
+.la{
+    color: blue;
+    font-family: cursive;
+    width: 445px;
+}
+
+.panel-body{
+    border: 15px solid red;
+    border-radius: 12px;
+}
+
+.panel-primary{
+    border: 20px solid blue;
+    border-radius: 32px;
+}
+
+.panel-heading{
+    border-radius: 15px;
+}
